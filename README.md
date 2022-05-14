@@ -87,7 +87,7 @@ docker run --name alpine4 -m 512m  -it --mount source=RemoteVol,target=/logi lab
 
 ### 6. Wykorzystanie narzędzia `CADVISOR` 
 
-**Uruchomienie narzędzia `CADVISOR`
+**Uruchomienie narzędzia `CADVISOR`**
 
 ![image](https://user-images.githubusercontent.com/103126350/168441717-21b18dd0-6a57-4b6f-9ca0-641a4caac635.png)
 
